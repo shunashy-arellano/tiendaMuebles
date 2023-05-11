@@ -11,6 +11,9 @@ Incluye diferentes apartados como:
 - Galería
 - Contacto
 
+Por ahora los apartados de "*Categorías*", "*Sobre Nosotros*" y "*Soporte*" son sólo guías visuales, los enlaces están deshabilitados.
+![](deshabilitado.png)
+
 ## Funcionamiento:
 [TiendaMuebles](https://la-tienda-de-muebles.netlify.app/)
 
