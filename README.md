@@ -1,5 +1,5 @@
 # Sitio web para tienda de muebles (Responsive)
-
+![](GenericLaptop.jpg)
 Este proyecto es el diseño de una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive").
 
 Incluye diferentes apartados como:
